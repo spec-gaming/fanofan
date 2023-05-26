@@ -8,7 +8,7 @@ body{
         max-height: 100vh;
         background-position: center;
         background-size:contain;
-        background-image: linear-gradient(rgba(7, 7, 7, 0.806),rgba(0, 0, 0, 0.591)), url(/img/about\ bg\ 2.png);
+        background-image: linear-gradient(rgba(7, 7, 7, 0.806),rgba(0, 0, 0, 0.591)), url(./img/about\ bg\ 2.png);
         background-repeat: no-repeat;
         height: 80vh;
         color: white;
